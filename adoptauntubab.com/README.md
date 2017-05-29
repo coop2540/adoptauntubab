@@ -1,14 +1,14 @@
-## La Web de Adoptauntubab.com
+# La Web de Adoptauntubab.com
 
-# ToDo
+### ToDo
 
 
-* Espacios de Comunicació *
+**Espacios de Comunicación**
 
 - Grupo de Google: https://groups.google.com/d/forum/adoptauntubab
 
 
-# IDEAS
+### IDEAS
 
 Plantillas para web
 
